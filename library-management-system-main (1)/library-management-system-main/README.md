@@ -132,18 +132,18 @@ To run **Library Management System** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pawantech12/library-management-system.git
+sudo git clone https://github.com/Nati-darse/Library-management-system-.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/library-management-system.git
+git clone https://github.com/Nati-darse/Library-management-system-.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/n.a.t.i_sha_229/). 
 
 ### License
 
